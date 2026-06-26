@@ -7,9 +7,9 @@ The objective was to clean and validate the Titanic dataset by handling missing 
 
 #Dataset:
 
-Dataset: Titanic Dataset (Kaggle)
-Format: CSV
-Tool Used: Microsoft Excel
+Dataset: Titanic Dataset (Kaggle)/
+Format: CSV/
+Tool Used: Microsoft Excel/
 
 # Data Cleaning Performed:
 
